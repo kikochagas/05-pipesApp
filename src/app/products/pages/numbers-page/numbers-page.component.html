@@ -1,0 +1,20 @@
+<p-panel header="{{'title1' | translate}}" [showHeader]="true" class="p-1">
+  <p >Pipes incluidos no Angular - Normalmente no Common Module</p>
+</p-panel>
+<div class="grid">
+  <div class="col-12 md:col-4">
+    <p-card   header="Vendas Liquidas" subheader="Ano Atual">
+      {{ totalSells + 1235 | number:'1.2-2'}}
+    </p-card>
+  </div>
+  <div class="col-12 md:col-4">
+    <p-card i18n-header  header="Vendas Brutas" subheader="Ano Atual">
+      {{ totalSells | currency:'EUR' }}
+    </p-card>
+  </div>
+  <div class="col-12 md:col-4">
+    <p-card i18n-header  header="Ganhos porcentual" subheader="Ano Atual">
+      {{ percent | percent:'1.2-2' }}
+    </p-card>
+  </div>
+</div>

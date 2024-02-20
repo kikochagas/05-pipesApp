@@ -1,0 +1,14 @@
+{
+  "title": "Pipes Basicos",
+  "menuTitle1": "Pipes do Angular",
+  "menuTitle2": "Pipes Personalizados",
+  "menuTitle1Subtitle1": "Textos e Datas",
+  "menuTitle1Subtitle2": "Números",
+  "menuTitle1Subtitle3": "Não Comuns",
+  "menuTitle2Subtitle1": "Pipes Personalizados",
+  "subtitle": "Pipes incluidos no Angular - Normalmente no Common Module",
+  "date": "Data",
+  "click": "Clikar",
+  "welcome": "Bem-vindo a esta página de Angular",
+  "title1": "Pipes com números"
+}

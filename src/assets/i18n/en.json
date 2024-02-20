@@ -1,0 +1,15 @@
+
+{
+  "title": "Basic Pipes",
+  "menuTitle1": "Angular Pipes",
+  "menuTitle2": "Custom Pipes",
+  "menuTitle1Subtitle1": "Texts and Dates",
+  "menuTitle1Subtitle2": "Numbers",
+  "menuTitle1Subtitle3": "Not Commons",
+  "menuTitle2Subtitle1": "Customm Pipes",
+  "subtitle": "Pipes included on Angular - Usualy on Common Module",
+  "date": "Date",
+  "click": "Click",
+  "welcome": "Welcome to this Angular page",
+  "title1": "Numeric Pipes"
+}
